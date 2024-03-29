@@ -6,7 +6,7 @@
 
 ## Контакты
 
-[<img align="left" alt="TadevosMartirosyan | Twitter" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" />][Telegram]
+[<img align="left" alt="TadevosMartirosyan | Twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" />][Telegram]
 
 [VK](https://vk.com/tutunio)
 
