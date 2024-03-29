@@ -5,7 +5,10 @@
 На GitHub я делюсь проектами, в которых я применяю свои навыки в области анализа данных и машинного обучения. Эти проекты были выполнены во время моего обучения на курсах от Яндекс Практикума.
 
 ## Контакты
-
-[Telegram](https://t.me/MTK020401)
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png
+[<img align="left" alt="TadevosMartirosyan | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png)" />][Telegram]
 
 [VK](https://vk.com/tutunio)
+
+
+[Telegram]: (https://t.me/MTK020401)
