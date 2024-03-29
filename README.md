@@ -11,4 +11,4 @@
 [VK](https://vk.com/tutunio)
 
 
-[Telegram]: (https://t.me/MTK020401)
+[Telegram]: https://t.me/MTK020401
