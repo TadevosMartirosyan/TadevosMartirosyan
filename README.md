@@ -6,13 +6,13 @@
 
 ## Контакты
 
-[<img align="left" alt="TadevosMartirosyan | Twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" />][Telegram]
-[<img align="left" alt="TadevosMartirosyan | Twitter" width="50px" src="https://free-png.ru/wp-content/uploads/2022/02/free-png.ru-307.png" />][VK]
-[<img align="left" alt="TadevosMartirosyan | Twitter" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="TadevosMartirosyan | Telegram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" />][Telegram]
+[<img align="left" alt="TadevosMartirosyan | VK" width="50px" src="https://free-png.ru/wp-content/uploads/2022/02/free-png.ru-307.png" />][VK]
+[<img align="left" alt="TadevosMartirosyan | Linkedin" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][LinkedIn]
 
 
 
 [Telegram]: https://t.me/MTK020401
 [VK]: https://vk.com/tutunio
-[linkedin]: https://www.linkedin.com/in/tadevos-martirosyan-14807b290/
+[LinkedIn]: https://www.linkedin.com/in/tadevos-martirosyan-14807b290/
 
