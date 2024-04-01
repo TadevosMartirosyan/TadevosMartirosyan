@@ -8,8 +8,11 @@
 
 [<img align="left" alt="TadevosMartirosyan | Twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" />][Telegram]
 [<img align="left" alt="TadevosMartirosyan | Twitter" width="50px" src="https://img.goodfon.ru/original/2048x2048/5/bd/logotip-vk-ikonka-vk-znachok-vk-ikonki-sotssetei-logo-vk.jpg" />][VK]
+[<img align="left" alt="TadevosMartirosyan | Twitter" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 
 
 [Telegram]: https://t.me/MTK020401
 [VK]: https://vk.com/tutunio
+[linkedin]: https://www.linkedin.com/in/tadevos-martirosyan-14807b290/
+
