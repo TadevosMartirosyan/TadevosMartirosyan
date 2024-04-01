@@ -7,7 +7,7 @@
 ## Контакты
 
 [<img align="left" alt="TadevosMartirosyan | Twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" />][Telegram]
-[<img align="left" alt="TadevosMartirosyan | Twitter" width="50px" src="https://img.goodfon.ru/original/2048x2048/5/bd/logotip-vk-ikonka-vk-znachok-vk-ikonki-sotssetei-logo-vk.jpg" />][VK]
+[<img align="left" alt="TadevosMartirosyan | Twitter" width="50px" src="https://free-png.ru/wp-content/uploads/2022/02/free-png.ru-307.png" />][VK]
 [<img align="left" alt="TadevosMartirosyan | Twitter" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 
