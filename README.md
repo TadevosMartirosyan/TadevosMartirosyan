@@ -9,10 +9,10 @@
 [<img align="left" alt="TadevosMartirosyan | Telegram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" />][Telegram]
 [<img align="left" alt="TadevosMartirosyan | VK" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" />][VK]
 [<img align="left" alt="TadevosMartirosyan | Linkedin" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][LinkedIn]
-
+[<img align="left" alt="TadevosMartirosyan | HabrКарьера" width="50px" src="https://336118.selcdn.ru/Gutsy-Culebra/products/Habr-Career-Logo.png" />][HabrКарьера]
 
 
 [Telegram]: https://t.me/MTK020401
 [VK]: https://vk.com/tutunio
 [LinkedIn]: https://www.linkedin.com/in/tadevos-martirosyan-14807b290/
-
+[HabrКарьера]: https://career.habr.com/tadevos020401
